@@ -29,5 +29,5 @@ To run this project, you need:
 To install the project, follow these steps:
 1. Clone the repository using Git: `[https://github.com/jojo6550/Johnson-Commercial-Bank.git]`
 
-2. Navigate to the project directory:
-    ### cd XYZBank
+2. ### Navigate to the project directory:
+    cd XYZBank
