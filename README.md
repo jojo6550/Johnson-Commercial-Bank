@@ -43,15 +43,15 @@ To install the project, follow these steps:
 1. Clone the repository using Git: `[https://github.com/jojo6550/Johnson-Commercial-Bank.git]`
 
 2. Navigate to the project directory:
-    cd XYZBank
+    cd JCBBank
 
 3. Compile code using c++ compiler:
-    g++ src/main.cpp src/Account.cpp src/SavingsAccount.cpp src/CheckingAccount.cpp src/Transaction.cpp -o XYZATM    
+    g++ src/main.cpp src/Account.cpp src/SavingsAccount.cpp src/CheckingAccount.cpp src/Transaction.cpp -o JCBATM    
 
 ## Usage
 
 1. Run the compiled code:
-    ./XYZATM
+    ./JCBATM
 
 2. Follow the on-screen prompts to:
  - Enter initial balances, interest rates, and transaction fees.

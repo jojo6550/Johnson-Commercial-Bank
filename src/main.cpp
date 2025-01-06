@@ -27,7 +27,7 @@ int main() {
         int choice = 0;
         double amount;
 
-        cout << "\nXYZATM Menu:" << endl;
+        cout << "\nJCBATM Menu:" << endl;
         cout << "1. Check Savings Balance" << endl;
         cout << "2. Deposit to Savings" << endl;
         cout << "3. Withdraw from Savings" << endl;
