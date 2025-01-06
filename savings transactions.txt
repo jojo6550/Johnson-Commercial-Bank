@@ -1,0 +1,3 @@
+Transaction type: Deposit
+ Amount: 50000.000000
+
